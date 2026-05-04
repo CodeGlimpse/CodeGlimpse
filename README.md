@@ -28,7 +28,7 @@
 ## GitHub Snapshot
 
 <a href="https://github.com/CodeGlimpse">
-  <img height="165" align="center" src="https://github-readme-stats.shion.dev/api?username=CodeGlimpse&show_icons=true&theme=transparent&hide_border=true&custom_title=CodeGlimpse%20GitHub%20Stats&rank_icon=percentile&text_bold=false&disable_animations=true&commits_year=2026" />
+  <img height="165" align="center" src="https://github-readme-stats.shion.dev/api?username=CodeGlimpse&show_icons=true&theme=transparent&hide_border=true&custom_title=CodeGlimpse%20GitHub%20Stats&rank_icon=percentile&text_bold=false&disable_animations=true" />
 </a>
 <a href="https://github.com/CodeGlimpse?tab=repositories">
   <img height="165" align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeGlimpse&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=cn&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5" />
